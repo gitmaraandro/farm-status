@@ -1,0 +1,1 @@
+{"machines":[{"timestamp":"2026-02-24T13:15:37.8678261Z","disk":{"freeGB":287.41,"totalGB":3725.12},"processes":[{"group":"discord","running":false,"name":"Discord Exporter"},{"group":null,"running":true,"name":"Telegram Client"}],"machine":"DESKTOP-HIRREFE"}]}
